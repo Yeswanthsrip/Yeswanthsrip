@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student with good knowledge of Java and SQL and have learned full-stack development technologies. I have solved 500+ problems on LeetCode and GeeksforGeeks, improving my coding and problem-solving skills. I also have knowledge of frontend development, backend technologies, databases, and Git/GitHub. I am open to internship and entry-level software development opportunities where I can apply my skills, learn new technologies, and grow as a software developer.
+### About Me<br><br>- **Name:** Yeswanth Sri Pichhikala<br>- **Education:** B.Tech in Computer Science and Engineering, Sri Vasavi Engineering College (2023–2027).<br>- **CGPA:** 8.37<br>- **Technical Skills:** Java, SQL, Data Structures and Algorithms (DSA), HTML, CSS, Bootstrap, JavaScript, and full-stack development technologies.<br>- **Problem Solving:** Solved 500+ coding problems on LeetCode and GeeksforGeeks.<br>- **Projects:** Developed projects to improve my programming and problem-solving skills.<br>- **Tools:** Git, GitHub, and database technologies.<br>- **Career Interests:** Open to internship and entry-level opportunities in Java Development, Full Stack Development, and Software Engineering.<br><br>### Certifications<br>- **MySQL 8.0 Database Developer** – Oracle Certified Professional<br>- **Introduction to Databases – SQL** – NxtWave<br>- **Developer Foundations** – NxtWave
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@ I am a Computer Science student with good knowledge of Java and SQL and have lea
 ![](https://github-readme-stats.shion.dev/api?username=Yeswanthsrip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Yeswanthsrip&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yeswanthsrip&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yeswanthsrip&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Yeswanthsrip&icon=0&color=0)](https://visitcount.itsvg.in)
