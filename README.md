@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/yeswanth-hero.svg" alt="Yeswanth Sri Pichhikala — Java Developer, DSA and Full-Stack Development" width="100%" />
+  <img src="./assets/yeswanth-hero.svg" alt="Yeswanth Sri Pichhikala — Aspiring Software Developer — Java & DSA, Full-Stack Development and SQL" width="100%" />
 </p>
 
 <p align="center">
