@@ -1,18 +1,93 @@
-# 💫 About Me:
-- Hey, I'm **Yeswanth Sri Pichhikala**, a B.Tech Computer Science and Engineering student at **Sri Vasavi Engineering College**, graduating in 2027.<br><br>- Maintaining a CGPA of **8.37**.<br><br>- Proficient in Java fundamentals, SQL, Data Structures and Algorithms (DSA), and familiar with full-stack development technologies.<br><br>- Solved **500+ coding problems** on LeetCode and GeeksforGeeks, strengthening my problem-solving skills.<br><br>- Developed projects using frontend, backend, and database technologies.<br><br>- Familiar with Git, GitHub, and database management.<br><br>- **Certifications:** Oracle Certified Professional – MySQL 8.0 Database Developer, Introduction to Databases – SQL (NxtWave), and Developer Foundations (NxtWave).<br><br>- Open to internship and entry-level opportunities in **Java Development, Full Stack Development, and Software Engineering** to apply my skills and grow professionally.
+<p align="center">
+  <img src="./assets/yeswanth-hero.svg" alt="Yeswanth Sri Pichhikala — Software Developer, Java and Full-Stack Development" width="100%" />
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yeswanthsrip) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sriyeswanth9@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Yeswanthsrip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Yeswanthsrip&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yeswanthsrip&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://ysh-portfolio-ten.vercel.app/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/Yeswanthsrip">LinkedIn</a> ·
+  <a href="mailto:sriyeswanth9@gmail.com">Email</a> ·
+  <a href="https://github.com/Yeswanthsrip">GitHub</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Yeswanthsrip&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm **Yeswanth Sri Pichhikala**, a B.Tech Computer Science and Engineering student at **Sri Vasavi Engineering College**, graduating in 2027, with a **CGPA of 8.37**. I enjoy solving problems with Java and building practical web applications across the frontend, backend, and database layers.
+
+- Focused on **Java, Data Structures & Algorithms, SQL, and full-stack development**.
+- Building projects that connect useful interfaces with reliable data management.
+- Open to **software development internships and entry-level opportunities**.
+
+## Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://yshdairyfarm.vercel.app/">Dairy Farm Management System ↗</a></h3>
+      A web-based project for managing cattle records, tracking milk production, and supporting day-to-day dairy farm operations.
+      <br/><br/>
+      <sub><b>Stack:</b> React.js · Node.js · MongoDB</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://ysh-portfolio-ten.vercel.app/">Personal Portfolio ↗</a></h3>
+      A personal website presenting my skills, projects, certifications, and achievements in one place.
+      <br/><br/>
+      <sub><b>Purpose:</b> Personal portfolio and project showcase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://yeswanthsrip.ccbp.tech/">Food Munch ↗</a></h3>
+      A responsive food-themed website showcasing food items and offers using familiar web layout components.
+      <br/><br/>
+      <sub><b>Stack:</b> HTML · CSS · Bootstrap</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>What I practice</h3>
+      Java fundamentals, object-oriented programming, Java Collections, SQL queries, and problem-solving with data structures and algorithms.
+      <br/><br/>
+      <sub><b>Focus:</b> Strong fundamentals and readable code</sub>
+    </td>
+  </tr>
+</table>
+
+## Technical Skills
+
+| Category | Technologies |
+| --- | --- |
+| **Programming** | Java, JavaScript, SQL |
+| **Frontend** | HTML, CSS, Bootstrap, React.js |
+| **Backend** | Node.js, Express.js |
+| **Databases** | MySQL, MongoDB; SQLite fundamentals through database learning |
+| **Core concepts** | Object-Oriented Programming (OOP), Java Collections, Data Structures & Algorithms in Java |
+| **Tools** | Git, GitHub, Postman, VS Code |
+| **Deployment platform** | Vercel |
+
+## Achievements
+
+- **First Place — Microsoft Hackoverflow Maizthon:** Recognized for performance in a two-day hackathon following a three-day technical workshop.
+- **First Prize — Mathematics Day:** Created an HTML/CSS website explaining the importance of mathematics in computing.
+- **Problem-solving practice:** Practices problem-solving on **LeetCode** and **GeeksforGeeks**.
+
+## Certifications
+
+- **Oracle Certified Professional — MySQL 8.0 Database Developer**
+- **Introduction to Databases — SQL** (NxtWave)
+- **Developer Foundations** (NxtWave)
+- **Industry Ready Certification in Full-stack Development** (NxtWave; ongoing in the supplied resume)
+
+## GitHub Activity
+
+GitHub's own contribution calendar is the source of truth for my activity. View the live graph on [my GitHub profile](https://github.com/Yeswanthsrip). I have not embedded a third-party heatmap or statistics card here because its live availability could not be verified during this build; no contribution counts, streaks, or language percentages are fabricated.
+
+## Connect
+
+- **Portfolio:** [ysh-portfolio-ten.vercel.app](https://ysh-portfolio-ten.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/Yeswanthsrip](https://linkedin.com/in/Yeswanthsrip)
+- **Email:** [sriyeswanth9@gmail.com](mailto:sriyeswanth9@gmail.com)
+- **GitHub:** [github.com/Yeswanthsrip](https://github.com/Yeswanthsrip)
+
+<p align="center">
+  <img src="./assets/yeswanth-footer.svg" alt="A burgundy line-art footer with the words Build thoughtfully. Keep learning." width="100%" />
+</p>
