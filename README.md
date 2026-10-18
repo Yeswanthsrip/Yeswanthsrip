@@ -67,18 +67,53 @@ A responsive food-themed website presenting food items and offers with a clean l
 
 <h2>🏆 Achievements</h2>
 
-- 🥇 **First Place — Microsoft Hackoverflow Maizthon:** Won first prize in a hackathon following a three-day technical workshop and a two-day hackathon.
-- 🥇 **First Prize — Mathematics Day:** Built an HTML/CSS website demonstrating the importance of mathematics in computing.
-- 💡 **490+ coding problems solved:** Listed in my supplied resume for LeetCode and GeeksforGeeks.
+<p>
+  <img src="https://img.shields.io/badge/HACKATHON-FIRST%20PLACE-F59E0B?style=for-the-badge&logo=medal&logoColor=111827" alt="Hackathon first place" />
+  <br />
+  <strong>Microsoft Hackoverflow Maizthon</strong><br />
+  Won first prize after a three-day technical workshop and a two-day hackathon.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MATHEMATICS%20DAY-FIRST%20PRIZE-2563EB?style=for-the-badge&logo=award&logoColor=FFFFFF" alt="Mathematics Day first prize" />
+  <br />
+  <strong>Mathematics Day</strong><br />
+  Built an HTML/CSS website demonstrating the importance of mathematics in computing.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-490%2B%20PROBLEMS-16A34A?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="490 plus coding problems" />
+  <br />
+  Practiced coding problems on <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong>, as listed in my supplied resume.
+</p>
 
 ---
 
-<h2>📜 Certifications & Learning</h2>
+<h2>📜 Certifications &amp; Learning</h2>
 
-- **Oracle Certified Professional — MySQL 8.0 Database Developer**
-- **Introduction to Databases — SQL** — NxtWave
-- **Developer Foundations** — NxtWave
-- **Industry Ready Certification in Full-stack Development** — NxtWave *(listed as ongoing in my resume)*
+<p>
+  <img src="https://img.shields.io/badge/ORACLE-CERTIFIED%20PROFESSIONAL-C74634?style=for-the-badge&logo=oracle&logoColor=FFFFFF" alt="Oracle Certified Professional" />
+  <br />
+  <strong>MySQL 8.0 Database Developer</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NXTWAVE-DATABASES%20%26%20SQL-2563EB?style=for-the-badge" alt="NxtWave SQL course" />
+  <br />
+  <strong>Introduction to Databases — SQL</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NXTWAVE-DEVELOPER%20FOUNDATIONS-7C3AED?style=for-the-badge" alt="NxtWave Developer Foundations" />
+  <br />
+  <strong>Developer Foundations</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NXTWAVE-FULL--STACK%20DEVELOPMENT-0891B2?style=for-the-badge" alt="NxtWave full-stack development" />
+  <br />
+  <strong>Industry Ready Certification in Full-stack Development</strong> <em>(listed as ongoing in my resume)</em>
+</p>
 
 ---
 
