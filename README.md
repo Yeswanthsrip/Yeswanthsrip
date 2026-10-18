@@ -100,9 +100,18 @@ A responsive food-themed website presenting food items and offers with a clean l
 
 ---
 
-<h2>📈 GitHub Activity</h2>
+<h2>📊 GitHub Stats</h2>
 
-See my **live contribution graph and repository activity** on [my GitHub profile](https://github.com/Yeswanthsrip). I have not included third-party statistics cards or decorative heatmaps that could display unavailable or misleading metrics.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yeswanthsrip&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0&icon_color=34D399&ring_color=FBBF24" alt="GitHub stats for Yeswanthsrip" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeswanthsrip&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0" alt="Most used languages for Yeswanthsrip" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Yeswanthsrip">View my live GitHub contribution graph and activity</a>
+</p>
+
+> Stats cards are loaded from a third-party service and may occasionally be unavailable or delayed. Values are not manually entered.
 
 ---
 
