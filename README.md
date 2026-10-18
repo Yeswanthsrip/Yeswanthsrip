@@ -103,7 +103,7 @@ A responsive food-themed website presenting food items and offers with a clean l
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yeswanthsrip&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0&icon_color=34D399&ring_color=FBBF24" alt="GitHub stats for Yeswanthsrip" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yeswanthsrip&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0&icon_color=34D399&ring_color=FBBF24" alt="GitHub stats for Yeswanthsrip" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeswanthsrip&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0" alt="Most used languages for Yeswanthsrip" />
 </p>
 
