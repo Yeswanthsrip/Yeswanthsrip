@@ -84,39 +84,19 @@ A responsive food-themed website presenting food items and offers with a clean l
 
 ---
 
-<h2>📜 Certifications &amp; Learning</h2>
+<h2>📜 Certifications</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>Certification</th>
-      <th>Provider</th>
-      <th>Focus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>MySQL 8.0 Database Developer</strong></td>
-      <td><img alt="Oracle" src="https://img.shields.io/badge/Oracle-C74634?style=flat-square&amp;logo=oracle&amp;logoColor=FFFFFF" /></td>
-      <td>Oracle Certified Professional</td>
-    </tr>
-    <tr>
-      <td><strong>Introduction to Databases — SQL</strong></td>
-      <td><img alt="NxtWave" src="https://img.shields.io/badge/NxtWave-2563EB?style=flat-square" /></td>
-      <td>SQL and database fundamentals</td>
-    </tr>
-    <tr>
-      <td><strong>Developer Foundations</strong></td>
-      <td><img alt="NxtWave" src="https://img.shields.io/badge/NxtWave-2563EB?style=flat-square" /></td>
-      <td>Git, GitHub, command line, and version control</td>
-    </tr>
-    <tr>
-      <td><strong>Industry Ready Certification in Full-stack Development</strong></td>
-      <td><img alt="NxtWave" src="https://img.shields.io/badge/NxtWave-2563EB?style=flat-square" /></td>
-      <td><em>Listed as ongoing in my resume</em></td>
-    </tr>
-  </tbody>
-</table>
+- 🟥 **MySQL 8.0 Database Developer** — ![Oracle](https://img.shields.io/badge/Oracle-C74634?style=flat-square&logo=oracle&logoColor=FFFFFF)  
+  <sub>Oracle Certified Professional · MySQL and database development</sub>
+
+- 🟦 **Introduction to Databases — SQL** — ![NxtWave](https://img.shields.io/badge/NxtWave-2563EB?style=flat-square&logoColor=FFFFFF)  
+  <sub>SQL fundamentals and database concepts</sub>
+
+- 🟩 **Developer Foundations** — ![NxtWave](https://img.shields.io/badge/NxtWave-16803C?style=flat-square&logoColor=FFFFFF)  
+  <sub>Git, GitHub, command line, and version control</sub>
+
+- 🟧 **Industry Ready Certification in Full-stack Development** — ![NxtWave](https://img.shields.io/badge/NxtWave-0E7490?style=flat-square&logoColor=FFFFFF)  
+  <sub><em>Listed as ongoing in my resume</em></sub>
 
 ---
 
