@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ysh-portfolio-ten.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-0D9488?style=for-the-badge&logo=vercel&logoColor=FFFFFF"></a>
-  <a href="https://linkedin.com/in/Yeswanthsrip"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC"></a>
+  <a href="https://www.linkedin.com/in/yeswanth-sri-pichhikala-58182b293/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC"></a>
   <a href="mailto:sriyeswanth9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"></a>
   <a href="https://github.com/Yeswanthsrip"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
   <a href="https://leetcode.com/u/yeswanthsriP/"><img alt="LeetCode" src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"></a>
@@ -119,7 +119,7 @@ A responsive food-themed website presenting food items and offers with a clean l
 
 <p>
   <a href="https://ysh-portfolio-ten.vercel.app/">Portfolio</a> ·
-  <a href="https://linkedin.com/in/Yeswanthsrip">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/yeswanth-sri-pichhikala-58182b293/">LinkedIn</a> ·
   <a href="mailto:sriyeswanth9@gmail.com">Email</a> ·
   <a href="https://github.com/Yeswanthsrip">GitHub</a> ·
   <a href="https://leetcode.com/u/yeswanthsriP/">LeetCode</a> ·
