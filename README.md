@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://ysh-portfolio-ten.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-6F42C1?style=for-the-badge&logo=vercel&logoColor=FFFFFF"></a>
+  <a href="https://ysh-portfolio-ten.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-0D9488?style=for-the-badge&logo=vercel&logoColor=FFFFFF"></a>
   <a href="https://linkedin.com/in/Yeswanthsrip"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC"></a>
   <a href="mailto:sriyeswanth9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"></a>
   <a href="https://github.com/Yeswanthsrip"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
-  <a href="https://leetcode.com/u/yeswanthsriP/"><img alt="LeetCode" src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111"></a>
-  <a href="https://www.geeksforgeeks.org/profile/sriyeswrmhk"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF"></a>
+  <a href="https://leetcode.com/u/yeswanthsriP/"><img alt="LeetCode" src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"></a>
+  <a href="https://www.geeksforgeeks.org/profile/sriyeswrmhk"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GEEKSFORGEEKS-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF"></a>
 </p>
 
 ---
@@ -30,10 +30,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F8FAFC) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF)
 
 **Java & Core Concepts**  
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-2563EB?style=flat-square&logo=coffeescript&logoColor=F8FAFC) ![Java Collections](https://img.shields.io/badge/Java%20Collections-7C3AED?style=flat-square) ![DSA](https://img.shields.io/badge/DSA-2563EB?style=flat-square)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-2563EB?style=flat-square&logo=coffeescript&logoColor=F8FAFC) ![Java Collections](https://img.shields.io/badge/Java%20Collections-0D9488?style=flat-square) ![DSA](https://img.shields.io/badge/DSA-2563EB?style=flat-square)
 
 **Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=F8FAFC) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7C3AED?style=flat-square&logo=bootstrap&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=F8FAFC)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=F8FAFC) ![Bootstrap](https://img.shields.io/badge/Bootstrap-2563EB?style=flat-square&logo=bootstrap&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=F8FAFC)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=F8FAFC)
@@ -42,7 +42,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=F8FAFC) ![SQLite](https://img.shields.io/badge/SQLite-24292F?style=flat-square&logo=sqlite&logoColor=FFFFFF)
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/Postman-7C3AED?style=flat-square&logo=postman&logoColor=FFFFFF) ![VS Code](https://img.shields.io/badge/VS%20Code-2563EB?style=flat-square&logo=visualstudiocode&logoColor=F8FAFC) ![Vercel](https://img.shields.io/badge/Vercel-24292F?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=FFFFFF) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF) ![Vercel](https://img.shields.io/badge/Vercel-24292F?style=flat-square&logo=vercel&logoColor=FFFFFF)
 
 ---
 
@@ -51,69 +51,72 @@
 ### 🐄 <a href="https://yshdairyfarm.vercel.app/">Dairy Farm Management System</a>
 A web application in development to support cattle record management, milk production tracking, and day-to-day dairy farm operations.
 
-![React.js](https://img.shields.io/badge/React.js-087EA4?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-555555?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-087EA4?style=flat-square&logo=react&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF)
 
 ### 🌐 <a href="https://ysh-portfolio-ten.vercel.app/">Personal Portfolio Website</a>
 A personal website showcasing my technical skills, projects, certifications, and achievements.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/React.js-087EA4?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827) ![React.js](https://img.shields.io/badge/React.js-087EA4?style=flat-square&logo=react&logoColor=FFFFFF)
 
 ### 🍽️ <a href="https://yeswanthsrip.ccbp.tech/">Food Munch</a>
 A responsive food-themed website presenting food items and offers with a clean layout.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/Bootstrap-2563EB?style=flat-square&logo=bootstrap&logoColor=FFFFFF)
 
 ---
 
 <h2>🏆 Achievements</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/HACKATHON-FIRST%20PLACE-F59E0B?style=for-the-badge&logo=medal&logoColor=111827" alt="Hackathon first place" />
-  <br />
-  <strong>Microsoft Hackoverflow Maizthon</strong><br />
-  Won first prize after a three-day technical workshop and a two-day hackathon.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MATHEMATICS%20DAY-FIRST%20PRIZE-2563EB?style=for-the-badge&logo=award&logoColor=FFFFFF" alt="Mathematics Day first prize" />
-  <br />
-  <strong>Mathematics Day</strong><br />
-  Built an HTML/CSS website demonstrating the importance of mathematics in computing.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-490%2B%20PROBLEMS-16A34A?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="490 plus coding problems" />
-  <br />
-  Practiced coding problems on <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong>, as listed in my supplied resume.
-</p>
+<table>
+  <tr>
+    <td><strong>🥇 First Place</strong><br><sub>Microsoft Hackoverflow Maizthon</sub></td>
+    <td>Won first prize after a three-day technical workshop and a two-day hackathon.</td>
+  </tr>
+  <tr>
+    <td><strong>🥇 First Prize</strong><br><sub>Mathematics Day</sub></td>
+    <td>Built an HTML/CSS website demonstrating the importance of mathematics in computing.</td>
+  </tr>
+  <tr>
+    <td><strong>💡 490+ Problems</strong><br><sub>Problem Solving</sub></td>
+    <td>Practiced coding problems on LeetCode and GeeksforGeeks, as listed in my resume.</td>
+  </tr>
+</table>
 
 ---
 
 <h2>📜 Certifications &amp; Learning</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/ORACLE-CERTIFIED%20PROFESSIONAL-C74634?style=for-the-badge&logo=oracle&logoColor=FFFFFF" alt="Oracle Certified Professional" />
-  <br />
-  <strong>MySQL 8.0 Database Developer</strong>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NXTWAVE-DATABASES%20%26%20SQL-2563EB?style=for-the-badge" alt="NxtWave SQL course" />
-  <br />
-  <strong>Introduction to Databases — SQL</strong>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NXTWAVE-DEVELOPER%20FOUNDATIONS-7C3AED?style=for-the-badge" alt="NxtWave Developer Foundations" />
-  <br />
-  <strong>Developer Foundations</strong>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NXTWAVE-FULL--STACK%20DEVELOPMENT-0891B2?style=for-the-badge" alt="NxtWave full-stack development" />
-  <br />
-  <strong>Industry Ready Certification in Full-stack Development</strong> <em>(listed as ongoing in my resume)</em>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Certification</th>
+      <th>Provider</th>
+      <th>Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>MySQL 8.0 Database Developer</strong></td>
+      <td><img alt="Oracle" src="https://img.shields.io/badge/Oracle-C74634?style=flat-square&amp;logo=oracle&amp;logoColor=FFFFFF" /></td>
+      <td>Oracle Certified Professional</td>
+    </tr>
+    <tr>
+      <td><strong>Introduction to Databases — SQL</strong></td>
+      <td><img alt="NxtWave" src="https://img.shields.io/badge/NxtWave-2563EB?style=flat-square" /></td>
+      <td>SQL and database fundamentals</td>
+    </tr>
+    <tr>
+      <td><strong>Developer Foundations</strong></td>
+      <td><img alt="NxtWave" src="https://img.shields.io/badge/NxtWave-2563EB?style=flat-square" /></td>
+      <td>Git, GitHub, command line, and version control</td>
+    </tr>
+    <tr>
+      <td><strong>Industry Ready Certification in Full-stack Development</strong></td>
+      <td><img alt="NxtWave" src="https://img.shields.io/badge/NxtWave-2563EB?style=flat-square" /></td>
+      <td><em>Listed as ongoing in my resume</em></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
