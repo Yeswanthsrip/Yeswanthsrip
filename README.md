@@ -49,17 +49,17 @@
 ### 🐄 <a href="https://yshdairyfarm.vercel.app/">Dairy Farm Management System</a>
 A web application in development to support cattle record management, milk production tracking, and day-to-day dairy farm operations.
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+![React.js](https://img.shields.io/badge/React.js-087EA4?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-555555?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🌐 <a href="https://ysh-portfolio-ten.vercel.app/">Personal Portfolio Website</a>
 A personal website showcasing my technical skills, projects, certifications, and achievements.
 
-`HTML` `CSS` `JavaScript` `React.js`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/React.js-087EA4?style=flat-square&logo=react&logoColor=white)
 
 ### 🍽️ <a href="https://yeswanthsrip.ccbp.tech/">Food Munch</a>
 A responsive food-themed website presenting food items and offers with a clean layout.
 
-`HTML` `CSS` `Bootstrap`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
