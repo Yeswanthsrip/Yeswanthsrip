@@ -7,6 +7,8 @@
   <a href="https://linkedin.com/in/Yeswanthsrip"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC"></a>
   <a href="mailto:sriyeswanth9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"></a>
   <a href="https://github.com/Yeswanthsrip"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
+  <a href="https://leetcode.com/u/yeswanthsriP/"><img alt="LeetCode" src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111"></a>
+  <a href="https://www.geeksforgeeks.org/profile/sriyeswrmhk"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF"></a>
 </p>
 
 ---
@@ -92,7 +94,9 @@ See my **live contribution graph and repository activity** on [my GitHub profile
   <a href="https://ysh-portfolio-ten.vercel.app/">Portfolio</a> ·
   <a href="https://linkedin.com/in/Yeswanthsrip">LinkedIn</a> ·
   <a href="mailto:sriyeswanth9@gmail.com">Email</a> ·
-  <a href="https://github.com/Yeswanthsrip">GitHub</a>
+  <a href="https://github.com/Yeswanthsrip">GitHub</a> ·
+  <a href="https://leetcode.com/u/yeswanthsriP/">LeetCode</a> ·
+  <a href="https://www.geeksforgeeks.org/profile/sriyeswrmhk">GeeksforGeeks</a>
 </p>
 
 <p align="center">
